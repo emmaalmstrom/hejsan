@@ -1,0 +1,14 @@
+body{
+    background-color: aqua;
+}
+button{
+    color: blue;
+    background-color: greenyellow;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-size: 3cm;
+}
+h1{
+    color: indigo;
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 2cm;
+}
